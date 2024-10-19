@@ -5,8 +5,8 @@ body{
     text-align: center;
     align-items: center;
     justify-content: center;
-    background-color: #E9FF70;
-    color: #FF70A6;
+    background-color: #000;
+    color: dodgerblue;
 }
 
 .winnerCont{
@@ -22,7 +22,7 @@ body{
 }
 
 .gameBtn{
-    background-color: #FF9770;
+    background-color: dodgerblue;
     color: white;
     border: none;
     border-radius: 1rem;
@@ -59,8 +59,8 @@ body{
 .box{
     width: 30%;
     height: 30%;
-    background-color: #FFD670;
-    color: #FF70A6;
+    background-color: #fff;
+    color: dodgerblue;
     font-size: 2.5rem;
     border: none;
     box-shadow: 0 0 8px rgba(0, 0, 0, 0.6);
