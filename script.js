@@ -71,7 +71,7 @@ function resetGame(){
         box.textContent = '';
     });
     Oturn = true;
-    turnText = 'O turn'
+    turnText.textContent = 'O turn';
     winCont.classList.add('hide');
 }
 
